@@ -1,0 +1,551 @@
+LINE
+<!DOCTYPE html>
+<p>
+A continuación se relacionan las Novedades correspondientes a la Función ( ADMCONTRA ) ADMINISTRADOR_CONTRATOS
+</p>
+<p>
+[1]Novedades en Asignación de Función a User
+</p>
+<TD><IMG SRC="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg"WIDTH=90  BORDER=0 ALT="[ZLOGO_MAIL_HTML_1             ]"></TD>
+<TD><IMG SRC="https://www.fronteraenergy.ca/content/uploads/2017/05/frontera.png"WIDTH=190 BORDER=0 ALT="[ZLOGO_MAIL_HTML_2             ]"></TD>
+<table border="1"cellspacing="0"background-color:;>
+<tr bgcolor="WHITE   ">
+<th>FUNCION POS</th>
+<th>USUARIO SAP</th>
+<th>Persona</th>
+<th>Nombre completo</th>
+<th>Posición</th>
+<th>FUNCION USR</th>
+<th>User REFERENCE</th>
+<th>ID del objeto vinculado</th>
+<th>T.A</th>
+<th>Fec.Novedad</th>
+</tr>
+ <tr>
+ <td>
+FUNC_ID
+ </td>
+ <td>
+UNAME
+ </td>
+ <td>
+NROPER
+ </td>
+ <td>
+NOMBRE
+ </td>
+ <td>
+PLANS
+ </td>
+ <td>
+STELL
+ </td>
+ <td>
+REFUSER
+ </td>
+ <td>
+ROLEID
+ </td>
+ <td>
+ACTION_TY
+ </td>
+ <td>
+LIMIT_DAT
+ </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:ORANGE"                              >HMALDONADO                         </td>
+<td                                                                                          >107                                </td>
+<td                                                    NOWRAP                                             >HMALDONADO                         </td>
+<td                                                                                          >30000444                           </td>
+<td                                                                                          >20000026                           </td>
+<td                                                                                          >                                   </td>
+<td                                        style="color:GREEN"                               >Rol Z Func:  57 | Rol Z Direc:  13 </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >28.12.2100                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:ORANGE"                              >OSALGADO                           </td>
+<td                                                                                          >5                                  </td>
+<td                                                    NOWRAP                                             >OSWALDO SALGADO GOMEZ              </td>
+<td                                                                                          >30000944                           </td>
+<td                                                                                          >20000000                           </td>
+<td                                                                                          >                                   </td>
+<td                                        style="color:GREEN"                               >Rol Z Func:  44 | Rol Z Direc:   0 </td>
+<td                                        style="color:RED"                                 >M                                  </td>
+<td                                        style="color:RED"                                 >28.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:ORANGE"                              >PRUEBA                             </td>
+<td                                                                                          >33                                 </td>
+<td                                                    NOWRAP                                             >grupos prueba                      </td>
+<td                                                                                          >30000944                           </td>
+<td                                                                                          >20000000                           </td>
+<td                                                                                          >                                   </td>
+<td                                        style="color:GREEN"                               >Rol Z Func:  45 | Rol Z Direc:   1 </td>
+<td                                        style="color:RED"                                 >M                                  </td>
+<td                                        style="color:RED"                                 >28.12.9999                         </td>
+ </tr>
+ </table>
+<p>
+[2]Novedades en Roles de la Función
+</p>
+<table border="1"cellspacing="0"background-color:;>
+<tr bgcolor="WHITE   ">
+<th>FUNCION POS</th>
+<th>Rol</th>
+<th>Descripción breve del rol</th>
+<th>T.A</th>
+<th>Fec.Novedad</th>
+</tr>
+ <tr>
+ <td>
+FUNC_ID
+ </td>
+ <td>
+ROLEID
+ </td>
+ <td>
+DESC_ROL
+ </td>
+ <td>
+ACTION_TY
+ </td>
+ <td>
+LIMIT_DAT
+ </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZAP_GRAL_VIS_VISUALACREEDO_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR ACREEDORES              </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.2300                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZAR_GRAL_VIS_VISUADEUDORES_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR DEUDORES                </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZBC_GRAL_EJE_TAR_BA_US_FIN_000     </td>
+<td                                                    NOWRAP                                             >EJECUTAR TAREAS BÁSICAS DE USUARIO </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZBC_GRAL_VIS_CLASIFICACION_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR CLASIFICACIÓN           </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZCO_GRAL_CRE_PROVISION_CAR_000     </td>
+<td                                                    NOWRAP                                             >CREACION Y CARGA DE PROVISIONES    </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZCO_GRAL_MOD_SIS_PROVISION_000     </td>
+<td                                                    NOWRAP                                             >MODIFICACION PROVISIONES           </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZCO_GRAL_VIS_CENTROS_COSTE_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR CENTRO DE COSTE         </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZCO_GRAL_VIS_EJE_GROS_CECO_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR EJECUCION GROSS CECO    </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZCO_GRAL_VIS_LISTA_PR_REAL_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR LISTA PRESUPUESTO REAL/C</td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZCO_GRAL_VIS_REP_PROVISION_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR REPORTE DE PROVISONES   </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZFI_GRAL_VIS_ACREE_CONTABI_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR ACREEDORES CONTABILIDAD </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZFI_GRAL_VIS_REP_ACRE_DEUD_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR REPORTES DE ACREEDORES Y</td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZFI_GRAL_VIS_REP_FINANCIER_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR REPORTES FINANCIEROS    </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZGL_GRAL_VIS_REPORTES_CONT_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR REPORTES CONTABLES      </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZGL_GRAL_VIS_VIS_DOCU_CONT_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR DOCUMENTO CONTABLE      </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_ADM_ORDEN_COMPRAS_000     </td>
+<td                                                    NOWRAP                                             >ADMINISTRAR PEDIDOS COMPRA         </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_ADM_SOLICITUD_PED_000     </td>
+<td                                                    NOWRAP                                             >ADMINISTRAR SOLICITUD DE PEDIDO    </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_CON_ACREEDOR_EVAL_000     </td>
+<td                                                    NOWRAP                                             >CONSULTAR ACREEDORES SIN EVALUACION</td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_CRE_ORDEN_COMPRAS_000     </td>
+<td                                                    NOWRAP                                             >ADMINISTRAR PEDIDOS COMPRA COMPRADO</td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_CREAR_ORDEN_COMPR_000     </td>
+<td                                                    NOWRAP                                             >CREACION ORDENES DE COMPRAS        </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_EVA_EV_ACREEDORES_000     </td>
+<td                                                    NOWRAP                                             >EVALUAR ACREEDORES                 </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_GEN_ENTRAD_SERVIC_000     </td>
+<td                                                    NOWRAP                                             >GENERAR ENTRADA DE SERVICIOS       </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_REP_ACREED_COMPRA_000     </td>
+<td                                                    NOWRAP                                             >REPORTES ACREEDORES COMPRAS        </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_ACREED_COMPRA_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR ACREEDORES COMPRAS      </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_DOCUMENTOS_MM_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR DOCUMENTO DE MATERIAL   </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_ENTREG_COMPRA_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR ENTREGAS COMPRAS        </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_ENVIOS_DOC_OC_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR LOG ENVIOS DOCUMENTOS DE</td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_GESTION_SERVI_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR GESTION DE SERVICIOS    </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_MTRL_&_SERVIC_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR MATERIALES Y SERVICIOS  </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_OC_&_CONTRATO_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR PEDIDOS DE COMPRAS Y CON</td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_PAGO_&_FACTUR_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR PAGOS Y FACTURAS        </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_PETICIO_OFERT_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR PETICIONES Y OFERTAS    </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_PLANIFI_NECES_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR MRP                     </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_REGISTRO_INFO_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR REGISTROS INFO          </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_REPORTE_EM_RF_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR EMRF                    </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_SELEC_GENERAL_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR SELEC. ANALISIS GENERAL </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_SOLICI_PEDIDO_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR SOLICITUDES DE PEDIDO   </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_STOCK_FCONTAB_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR STOCK EN FECHA CONTABILI</td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_STOCK_IM_&_MM_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR STOCKS                  </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_VIS_STOCKS_ESPECI_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR STOCKS ESPECIAL         </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZPS_GRAL_CON_INFORPROYESTR_000     </td>
+<td                                                    NOWRAP                                             >CONSULTAR INFORMES DE PROYECTOS (ES</td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZPS_GRAL_REPORTES_PROYECTO_000     </td>
+<td                                                    NOWRAP                                             >REPORTES PROYECTOS                 </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZPS_GRAL_VIS_VISUALPROYECT_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR PROYECTOS               </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZSD_GRAL_VIS_FACTURA_VENTA_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR FACTURAS DE VENTA       </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >29.12.9999                         </td>
+ </tr>
+ </table>
+<p>
+[3]Novedades en Roles directos de Usuario
+</p>
+<table border="2"cellspacing="0"background-color:;>
+<tr bgcolor="WHITE   ">
+<th>USUARIO SAP</th>
+<th>Rol</th>
+<th>Descripción breve del rol</th>
+<th>T.A</th>
+<th>Fec.Novedad</th>
+</tr>
+ <tr>
+ <td>
+USUARIO
+ </td>
+ <td>
+ROLEID
+ </td>
+ <td>
+DESC_ROL
+ </td>
+ <td>
+ACTION_TY
+ </td>
+ <td>
+LIMIT_DAT
+ </td>
+ </tr>
+ <tr>
+<td                                        style="color:ORANGE"                              >HMALDONADO                         </td>
+<td                                        style="color:GREEN"                               >ZHR_USUARIO_LIDER                  </td>
+<td                                                    NOWRAP                                             >HR Usuario Lider                   </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >31.12.9999                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:ORANGE"                              >HMALDONADO                         </td>
+<td                                        style="color:GREEN"                               >ZTHBN_ADMINISTRADOR                </td>
+<td                                                    NOWRAP                                             >PRE: Administrador Beneficios      </td>
+<td                                        style="color:RED"                                 >M                                  </td>
+<td                                        style="color:RED"                                 >31.12.9900                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:ORANGE"                              >PRUEBA                             </td>
+<td                                        style="color:GREEN"                               >ZMM_GRAL_ADM_CENTRO&GC_EST_000     </td>
+<td                                                    NOWRAP                                             >ADMINISTRAR CENTRO & GRUPO DE COMPR</td>
+<td                                        style="color:RED"                                 >M                                  </td>
+<td                                        style="color:RED"                                 >31.12.2026                         </td>
+ </tr>
+ </table>
+<p>
+[4]Novedades de Transacciones en Roles de la Función :
+</p>
+<table border="1"cellspacing="0"background-color:;>
+<tr bgcolor="WHITE   ">
+<th>FUNCION POS</th>
+<th>Rol</th>
+<th>Descripción breve del rol</th>
+<th>Descripción breve del rol</th>
+<th>CódT</th>
+<th>Texto transacción</th>
+<th>T.A</th>
+<th>Fec.Novedad</th>
+</tr>
+ <tr>
+ <td>
+FUNC_ID
+ </td>
+ <td>
+ROLEID
+ </td>
+ <td>
+DESC_ROL
+ </td>
+ <td>
+NOMBRE
+ </td>
+ <td>
+TCODE
+ </td>
+ <td>
+DESC_TCODE
+ </td>
+ <td>
+ACTION_TY
+ </td>
+ <td>
+LIMIT_DAT
+ </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZAP_GRAL_VIS_VISUALACREEDO_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR ACREEDORES              </td>
+<td                                                    NOWRAP                                             >VISUALIZAR ACREEDORES              </td>
+<td                                        style="color:BLUE"                                >F.42                               </td>
+<td                                                                                          >Acreedores: Lista de saldos        </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >31.12.9901                         </td>
+ </tr>
+ <tr>
+<td                                        style="color:BLUE"                                >20000101                           </td>
+<td                                        style="color:GREEN"                               >ZAP_GRAL_VIS_VISUALACREEDO_000     </td>
+<td                                                    NOWRAP                                             >VISUALIZAR ACREEDORES              </td>
+<td                                                    NOWRAP                                             >VISUALIZAR ACREEDORES              </td>
+<td                                        style="color:BLUE"                                >F.41                               </td>
+<td                                                                                          >Acreedores: Partidas abiertas      </td>
+<td                                        style="color:RED"                                 >R                                  </td>
+<td                                        style="color:RED"                                 >31.12.9900                         </td>
+ </tr>
+ </table>
+
+
+
+
+<p>
+Cualquier detalle no cubierto en esta notificación podría ser aclarada por la transacción ZBC_GRC_R01 en ERP SAP
+</p>
+<p>
+* Sistema de Control de Roles & Perfiles GRC ERP SAP
+</p>
+ </html>
