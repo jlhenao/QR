@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Sistema de Consulta de Materiales</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 10pt;
+      margin: 20px;
+    }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .header img {
+      height: 40px;
+    }
+    .title {
+      font-weight: bold;
+      font-size: 12pt;
+      color: purple;
+      text-align: center;
+      flex: 1;
+    }
+    .table-container {
+      margin-top: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 10pt;
+    }
+    td {
+      border: 1px solid #000;
+      padding: 5px;
+      vertical-align: top;
+    }
+    .label {
+      font-weight: bold;
+      width: 30%;
+    }
+    .button-container {
+      text-align: center;
+      margin-top: 15px;
+    }
+    .btn {
+      padding: 8px 16px;
+      font-size: 10pt;
+      background-color: #4A148C; /* morado oscuro */
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background-color: #6A1B9A;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <img src="https://www.fronteraenergy.ca/content/uploads/2017/05/frontera.png" alt="Logo Frontera">
+    <div class="title">Sistema de Consulta de Materiales</div>
+    <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg" alt="Logo SAP">
+  </div>
+
+  <div class="table-container">
+    <table>
+      <tr>
+        <td class="label">Código</td>
+        <td>102012122</td>
+      </tr>
+      <tr>
+        <td class="label">Material</td>
+        <td>Tornillos de madera de 4 pulgadas y 12grs con punta acerada</td>
+      </tr>
+      <tr>
+        <td class="label">Peso</td>
+        <td>250 mg</td>
+      </tr>
+      <tr>
+        <td class="label">EAN</td>
+        <td>C6762JJYHGW</td>
+      </tr>
+      <tr>
+        <td class="label">Texto corto</td>
+        <td>Tornillos de Madera</td>
+      </tr>
+    </table>
+
+    <div class="button-container">
+      <a class="btn" href="https://jlhenao.github.io/QR/FICHA_MATERIAL.PDF" target="_blank">Ficha Técnica</a>
+    </div>
+  </div>
+</body>
+</html>
